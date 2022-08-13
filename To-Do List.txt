@@ -1,0 +1,7 @@
+create a blank app in order to use flask with it
+
+after creating the app set flask web-app as a domain 
+
+then customize and encrypt the url of the domain
+
+finally build a strong proxy chain which goes over .tor proxy chain for maximum sexurity
